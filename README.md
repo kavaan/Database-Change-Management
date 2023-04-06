@@ -14,6 +14,7 @@ Key features:
   + Supports undoing migrations.
   + Integrates with various build tools and Continuous Integration (CI) pipelines.
 Availability: Open-source
+
 Website: https://flywaydb.org
 
 2- Liquibase : Liquibase is a flexible open-source tool that helps manage versioning and migration of database schema across different databases, with CLI and CI integration.
@@ -28,6 +29,7 @@ Key features:
   + Provides a command-line interface for migrations.
   + Offers extensions for non-relational databases(such as Cassandra, MongoDB, and Couchbase).
 Availability: Open-source
+
 Website: https://www.liquibase.org
 
 3- ApexSQL Diff:  ApexSQL Diff is a tool for comparing and syncing SQL Server database schema and data changes, with flexible comparison modes and CLI and source control integration.
@@ -41,6 +43,7 @@ Key features:
   + Provides detailed reports and logging for auditing and compliance.
   + Supports comparison and synchronization of SQL Server database backups.
 Availability: Licensed
+
 Website: https://www.apexsql.com/sql_tools_diff.aspx
 
 4- Fluent migrations: Fluent Migrations is an open-source library for managing database schema migrations using a fluent API syntax in code, supporting multiple databases and providing a CLI.
@@ -53,6 +56,7 @@ Key features:
   + Provides a CLI for executing migrations and integrating with build and deployment workflows.
   + Offers a flexible and extensible architecture for customizing and extending the library.
 Availability: Open-source
+
 Website: https://github.com/fluentmigrator/fluentmigrator
 
 5- Evolve:  Database migration tool for .NET and .NET Core projects. Inspired by Flyway.
@@ -66,6 +70,7 @@ Key features:
   + Integrates with popular build and deployment tools like Jenkins and Octopus Deploy.
   + Provides an extensible architecture for customizing and extending the tool's functionality.
 Availability: Open-source
+
 Website: https://evolve-db.netlify.app
 
 6- NoSQL database migration tools:
