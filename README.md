@@ -92,3 +92,5 @@ Website: https://evolve-db.netlify.app
   + Redis Migrate Tool:  tool for migrating data between Redis instances, with support for different data structures and background migrations.
   (https://redis.io/topics/migration)
   
+  See also: https://medium.com/@KeivanDamirchi/database-change-management-946af9c02169
+  
