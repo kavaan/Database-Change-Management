@@ -13,6 +13,7 @@ Key features:
   + Enables repeatable migrations for consistent database changes.
   + Supports undoing migrations.
   + Integrates with various build tools and Continuous Integration (CI) pipelines.
+
 Availability: Open-source
 
 Website: https://flywaydb.org
@@ -28,6 +29,7 @@ Key features:
   + Integrates with build tools and Continuous Integration (CI) pipelines.
   + Provides a command-line interface for migrations.
   + Offers extensions for non-relational databases(such as Cassandra, MongoDB, and Couchbase).
+
 Availability: Open-source
 
 Website: https://www.liquibase.org
@@ -42,6 +44,7 @@ Key features:
   + Enables filtering and customizing comparison results.
   + Provides detailed reports and logging for auditing and compliance.
   + Supports comparison and synchronization of SQL Server database backups.
+
 Availability: Licensed
 
 Website: https://www.apexsql.com/sql_tools_diff.aspx
@@ -55,6 +58,7 @@ Key features:
   + Supports various relational databases, including Microsoft SQL Server, PostgreSQL, MySQL, SQLite, Oracle, and Firebird.
   + Provides a CLI for executing migrations and integrating with build and deployment workflows.
   + Offers a flexible and extensible architecture for customizing and extending the library.
+
 Availability: Open-source
 
 Website: https://github.com/fluentmigrator/fluentmigrator
@@ -69,6 +73,7 @@ Key features:
   + Provides a CLI for executing migrations and integrating with build and deployment workflows.
   + Integrates with popular build and deployment tools like Jenkins and Octopus Deploy.
   + Provides an extensible architecture for customizing and extending the tool's functionality.
+
 Availability: Open-source
 
 Website: https://evolve-db.netlify.app
