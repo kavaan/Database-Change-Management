@@ -1,9 +1,11 @@
 # Database Change Management
 
 
-As your software grows in complexity, managing database changes can become challenging for you and your team. Luckily, there are tools available to streamline this process for developers. Some of these tools include:
+As your software grows in complexity, managing database changes can become challenging for you and your team. Luckily, there are tools available to streamline this process for developers.
 
 <img src="https://github.com/kavaan/Database-Change-Management/blob/main/main.png?raw=true"/>
+
+ <h3>Some of these tools include:</h3>
 
 1- Flyway: Flyway is an open-source database migration tool that helps manage and version database schema changes.
 Database Support: A wide range of relational databases, including PostgreSQL, MySQL, Oracle, SQL Server and many others. 
